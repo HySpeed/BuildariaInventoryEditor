@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfInventory>
+    <Inventory>
+        <Name>Blank</Name>
+        <Items>
+            <InventoryItem>
+                <Name>Copper Pickaxe</Name>
+                <ID>1</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name>Copper Hammer</Name>
+                <ID>7</ID>
+            </InventoryItem>
+        </Items>
+    </Inventory>
+</ArrayOfInventory>

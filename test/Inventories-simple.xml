@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<ArrayOfInventory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                  xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Inventory>
+    <Name>Blank</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Copper Pickaxe</Name>
+        <ID>1</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Hammer</Name>
+        <ID>7</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Phaseblade</Name>
+        <ID>198</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name />
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Tier 1 Armor</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Copper Pickaxe</Name>
+        <ID>1</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wooden Hammer</Name>
+        <ID>196</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Phaseblade</Name>
+        <ID>198</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+</ArrayOfInventory>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfInventory>
+    <Inventory>
+        <Name>One</Name>
+        <Items>
+            <InventoryItem>
+                <Name>Gold Pickaxe</Name>
+                <ID>1</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name>Gold Hammer</Name>
+                <ID>11</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name>Yellow Phaseblade</Name>
+                <ID>111</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name></Name>
+                <ID>0</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name></Name>
+                <ID>0</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name></Name>
+                <ID>0</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name></Name>
+                <ID>0</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name></Name>
+                <ID>0</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name></Name>
+                <ID>0</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name></Name>
+                <ID>0</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name></Name>
+                <ID>0</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name>Gold Shortsword</Name>
+                <ID>301</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name></Name>
+                <ID>0</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name></Name>
+                <ID>0</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name></Name>
+                <ID>0</ID>
+            </InventoryItem>
+        </Items>
+    </Inventory>
+    <Inventory>
+        <Name>Two</Name>
+        <Items>
+            <InventoryItem>
+                <Name>Iron Pickaxe</Name>
+                <ID>2</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name>Iron Hammer</Name>
+                <ID>12</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name>White Phaseblade</Name>
+                <ID>203</ID>
+            </InventoryItem>
+        </Items>
+    </Inventory>
+    <Inventory>
+        <Name>Three</Name>
+        <Items>
+            <InventoryItem>
+                <Name>Copper Pickaxe</Name>
+                <ID>3</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name>Copper Hammer</Name>
+                <ID>13</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name>Blue Phaseblade</Name>
+                <ID>103</ID>
+            </InventoryItem>
+        </Items>
+    </Inventory>
+    <Inventory>
+        <Name>Four</Name>
+        <Items>
+            <InventoryItem>
+                <Name>Silver Pickaxe</Name>
+                <ID>4</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name>Silver Hammer</Name>
+                <ID>14</ID>
+            </InventoryItem>
+            <InventoryItem>
+                <Name>Green Phaseblade</Name>
+                <ID>204</ID>
+            </InventoryItem>
+        </Items>
+    </Inventory>
+</ArrayOfInventory>

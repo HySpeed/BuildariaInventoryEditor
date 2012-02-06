@@ -1,0 +1,6230 @@
+<?xml version="1.0"?>
+<ArrayOfInventory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Inventory>
+    <Name>Blank</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Copper Pickaxe</Name>
+        <ID>1</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Hammer</Name>
+        <ID>7</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Phaseblade</Name>
+        <ID>198</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Tier 1 Armor</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wooden Hammer</Name>
+        <ID>196</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Helmet</Name>
+        <ID>89</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Iron Helmet</Name>
+        <ID>90</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Silver Helmet</Name>
+        <ID>91</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gold Helmet</Name>
+        <ID>92</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mining Helmet</Name>
+        <ID>88</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Chainmail</Name>
+        <ID>80</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Iron Chainmail</Name>
+        <ID>81</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Silver Chainmail</Name>
+        <ID>82</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gold Chainmail</Name>
+        <ID>83</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mining Shirt</Name>
+        <ID>410</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Greaves</Name>
+        <ID>76</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Iron Greaves</Name>
+        <ID>77</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Silver Greaves</Name>
+        <ID>78</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gold Greaves</Name>
+        <ID>79</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mining Pants</Name>
+        <ID>411</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Tier 2 Armor</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wooden Hammer</Name>
+        <ID>196</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Meteor Helmet</Name>
+        <ID>123</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Shadow Helmet</Name>
+        <ID>102</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Necro Helmet</Name>
+        <ID>151</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Jungle Hat</Name>
+        <ID>228</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Molten Helmet</Name>
+        <ID>231</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Meteor Suit</Name>
+        <ID>124</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Shadow Scalemail</Name>
+        <ID>101</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Necro Breastplate</Name>
+        <ID>152</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Jungle Shirt</Name>
+        <ID>229</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Molten Breastplate</Name>
+        <ID>232</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Meteor Leggings</Name>
+        <ID>125</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Shadow Greaves</Name>
+        <ID>100</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Necro Greaves</Name>
+        <ID>153</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Jungle Pants</Name>
+        <ID>230</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Molten Greaves</Name>
+        <ID>233</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Tier 3 Armor</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wooden Hammer</Name>
+        <ID>196</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cobalt Hat</Name>
+        <ID>371</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cobalt Helmet</Name>
+        <ID>372</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mythril Hood</Name>
+        <ID>376</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mythril Helmet</Name>
+        <ID>377</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Adamantite Headgear</Name>
+        <ID>400</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Adamantite Helmet</Name>
+        <ID>401</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hallowed Headgear</Name>
+        <ID>558</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hallowed Helmet</Name>
+        <ID>553</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cobalt Breastplate</Name>
+        <ID>374</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cobalt Mask</Name>
+        <ID>373</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mythril Chainmail</Name>
+        <ID>379</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mythril Hat</Name>
+        <ID>378</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Adamantite Breastplate</Name>
+        <ID>403</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Adamantite Mask</Name>
+        <ID>402</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hallowed Plate Mail</Name>
+        <ID>551</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hallowed Mask</Name>
+        <ID>559</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cobalt Leggings</Name>
+        <ID>375</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mythril Greaves</Name>
+        <ID>380</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Adamantite Leggings</Name>
+        <ID>404</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hallowed Greaves</Name>
+        <ID>552</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Throwables &amp; Explosives</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Vile Powder</Name>
+        <ID>67</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Shuriken</Name>
+        <ID>42</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Bone</Name>
+        <ID>154</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spiky Ball</Name>
+        <ID>161</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Throwing Knife</Name>
+        <ID>279</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Poisoned Knife</Name>
+        <ID>287</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Dynamite</Name>
+        <ID>167</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Grenade</Name>
+        <ID>168</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Bomb</Name>
+        <ID>166</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sticky Bomb</Name>
+        <ID>235</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Explosives</Name>
+        <ID>580</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Flamarang</Name>
+        <ID>119</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Thorn Chakram</Name>
+        <ID>191</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wooden Boomerang</Name>
+        <ID>284</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Enchanted Boomerang</Name>
+        <ID>55</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Light Disc</Name>
+        <ID>561</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Flails &amp; Spears</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Harpoon</Name>
+        <ID>160</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Ball O' Hurt</Name>
+        <ID>162</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Moon</Name>
+        <ID>163</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunfury</Name>
+        <ID>220</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Dao of Pow</Name>
+        <ID>389</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spear</Name>
+        <ID>280</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Trident</Name>
+        <ID>277</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Dark Lance</Name>
+        <ID>274</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cobalt Naginata</Name>
+        <ID>537</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mythril Halberd</Name>
+        <ID>390</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Adamantite Glaive</Name>
+        <ID>406</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gungnir</Name>
+        <ID>550</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Bows &amp; Guns</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blowpipe</Name>
+        <ID>281</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Flintlock Pistol</Name>
+        <ID>95</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Musket</Name>
+        <ID>96</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Handgun</Name>
+        <ID>164</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Minishark</Name>
+        <ID>98</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Megashark</Name>
+        <ID>533</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Phoenix Blaster</Name>
+        <ID>219</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sandgun</Name>
+        <ID>266</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Shotgun</Name>
+        <ID>534</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Space Gun</Name>
+        <ID>127</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Star Cannon</Name>
+        <ID>197</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Flamethrower</Name>
+        <ID>506</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Clockwork Assault Rifle</Name>
+        <ID>434</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wooden Bow</Name>
+        <ID>39</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Bow</Name>
+        <ID>99</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Iron Bow</Name>
+        <ID>99</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Silver Bow</Name>
+        <ID>99</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gold Bow</Name>
+        <ID>99</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Demon Bow</Name>
+        <ID>44</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Molten Fury</Name>
+        <ID>120</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cobalt Repeater</Name>
+        <ID>435</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mythril Repeater</Name>
+        <ID>436</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Adamantite Repeater</Name>
+        <ID>481</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hallowed Repeater</Name>
+        <ID>578</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Magic Weapons</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Flower of Fire</Name>
+        <ID>112</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Vilethorn</Name>
+        <ID>64</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Magic Missile</Name>
+        <ID>113</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Flamelash</Name>
+        <ID>218</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Water Bolt</Name>
+        <ID>165</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Demon Scythe</Name>
+        <ID>272</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Crystal Storm</Name>
+        <ID>518</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cursed Flames</Name>
+        <ID>519</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Aqua Scepter</Name>
+        <ID>157</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Laser Rifle</Name>
+        <ID>514</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Magic Dagger</Name>
+        <ID>517</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Magical Harp</Name>
+        <ID>494</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Rainbow Rod</Name>
+        <ID>495</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Ice Rod</Name>
+        <ID>496</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Swords</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wooden Sword</Name>
+        <ID>24</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Shortsword</Name>
+        <ID>6</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Broadsword</Name>
+        <ID>4</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Iron Shortsword</Name>
+        <ID>6</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Iron Broadsword</Name>
+        <ID>4</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Silver Shortsword</Name>
+        <ID>6</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Silver Broadsword</Name>
+        <ID>4</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gold Shortsword</Name>
+        <ID>6</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gold Broadsword</Name>
+        <ID>4</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Night's Edge</Name>
+        <ID>273</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Light's Bane</Name>
+        <ID>46</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Starfury</Name>
+        <ID>65</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Muramasa</Name>
+        <ID>155</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blade of Grass</Name>
+        <ID>190</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Fiery Greatsword</Name>
+        <ID>121</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cobalt Sword</Name>
+        <ID>483</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mythril Sword</Name>
+        <ID>484</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Adamantite Sword</Name>
+        <ID>482</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Breaker Blade</Name>
+        <ID>426</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Excalibur</Name>
+        <ID>368</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Phase Weapons</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>White Phaseblade</Name>
+        <ID>202</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Phaseblade</Name>
+        <ID>198</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Red Phaseblade</Name>
+        <ID>199</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Purple Phaseblade</Name>
+        <ID>201</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Green Phaseblade</Name>
+        <ID>200</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Yellow Phaseblade</Name>
+        <ID>203</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>White Phasesaber</Name>
+        <ID>202</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Phasesaber</Name>
+        <ID>198</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Red Phasesaber</Name>
+        <ID>199</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Purple Phasesaber</Name>
+        <ID>201</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Green Phasesaber</Name>
+        <ID>200</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Yellow Phasesaber</Name>
+        <ID>203</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Tools</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Phaseblade</Name>
+        <ID>198</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hamdrax</Name>
+        <ID>579</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name />
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Holy Water</Name>
+        <ID>422</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Unholy Water</Name>
+        <ID>423</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Empty Bucket</Name>
+        <ID>205</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Water Bucket</Name>
+        <ID>206</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Lava Bucket</Name>
+        <ID>207</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Pickaxe</Name>
+        <ID>1</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Iron Pickaxe</Name>
+        <ID>1</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Silver Pickaxe</Name>
+        <ID>1</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gold Pickaxe</Name>
+        <ID>1</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Nightmare Pickaxe</Name>
+        <ID>103</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Molten Pickaxe</Name>
+        <ID>122</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cobalt Drill</Name>
+        <ID>385</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mythril Drill</Name>
+        <ID>386</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Adamantite Drill</Name>
+        <ID>388</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Axe</Name>
+        <ID>10</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Iron Axe</Name>
+        <ID>10</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Silver Axe</Name>
+        <ID>10</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gold Axe</Name>
+        <ID>10</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>War Axe of the Night</Name>
+        <ID>45</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Meteor Hamaxe</Name>
+        <ID>204</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Molten Hamaxe</Name>
+        <ID>217</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cobalt Chainsaw</Name>
+        <ID>383</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mythril Chainsaw</Name>
+        <ID>384</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Adamantite Chainsaw</Name>
+        <ID>387</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wooden Hammer</Name>
+        <ID>196</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Hammer</Name>
+        <ID>7</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Iron Hammer</Name>
+        <ID>7</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Silver Hammer</Name>
+        <ID>7</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gold Hammer</Name>
+        <ID>7</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>The Breaker</Name>
+        <ID>104</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Pwnhammer</Name>
+        <ID>367</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Movement Accessories</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Aglet</Name>
+        <ID>285</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Anklet of the Wind</Name>
+        <ID>212</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hermes Boots</Name>
+        <ID>54</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Rocket Boots</Name>
+        <ID>128</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Angel Wings</Name>
+        <ID>493</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Demon Wings</Name>
+        <ID>492</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Lucky Horseshoe</Name>
+        <ID>158</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Bottle</Name>
+        <ID>53</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Shiny Red Balloon</Name>
+        <ID>159</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Flipper</Name>
+        <ID>187</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Diving Helmet</Name>
+        <ID>268</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Diving Gear</Name>
+        <ID>394</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Combat Accessories</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cobalt Shield</Name>
+        <ID>156</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Feral Claws</Name>
+        <ID>211</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Skull</Name>
+        <ID>193</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Shackle</Name>
+        <ID>216</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Shield</Name>
+        <ID>397</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Star Cloak</Name>
+        <ID>532</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Titan Glove</Name>
+        <ID>536</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cross Necklace</Name>
+        <ID>554</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Band of Regeneration</Name>
+        <ID>49</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Band of Starpower</Name>
+        <ID>111</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Nature's Gift</Name>
+        <ID>223</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mana Flower</Name>
+        <ID>555</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Philosopher's Stone</Name>
+        <ID>535</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Ranger Emblem</Name>
+        <ID>491</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sorcerer Emblem</Name>
+        <ID>489</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Warrior Emblem</Name>
+        <ID>490</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Miscellaneous Accessories</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Depth Meter</Name>
+        <ID>18</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Watch</Name>
+        <ID>15</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Silver Watch</Name>
+        <ID>16</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gold Watch</Name>
+        <ID>17</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Compass</Name>
+        <ID>393</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>GPS</Name>
+        <ID>395</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Ruler</Name>
+        <ID>486</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Toolbelt</Name>
+        <ID>407</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Moon Charm</Name>
+        <ID>485</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Neptune's Shell</Name>
+        <ID>497</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Christmas</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Copper Pickaxe</Name>
+        <ID>1</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Hammer</Name>
+        <ID>7</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Phaseblade</Name>
+        <ID>198</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Yellow Present</Name>
+        <ID>601</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Present</Name>
+        <ID>599</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Green Present</Name>
+        <ID>600</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Santa Hat</Name>
+        <ID>588</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Santa Shirt</Name>
+        <ID>589</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Santa Pants</Name>
+        <ID>590</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Red Light</Name>
+        <ID>597</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Light</Name>
+        <ID>596</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Green Light</Name>
+        <ID>598</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Snow Globe</Name>
+        <ID>602</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Candy Cane Block</Name>
+        <ID>586</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Green Candy Cane Block</Name>
+        <ID>591</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Snow Block</Name>
+        <ID>593</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Snow Brick</Name>
+        <ID>594</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Candy Cane Wall</Name>
+        <ID>587</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Green Candy Cane Wall</Name>
+        <ID>592</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Snow Brick Wall</Name>
+        <ID>595</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Miscellaneous</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Grappling Hook</Name>
+        <ID>84</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Dual Hook</Name>
+        <ID>437</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Dirt Rod</Name>
+        <ID>114</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Guide Voodoo Doll</Name>
+        <ID>267</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Orb of Light</Name>
+        <ID>115</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Fairy Bell</Name>
+        <ID>425</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Magic Mirror</Name>
+        <ID>50</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Whoopie Cushion</Name>
+        <ID>215</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Boulder</Name>
+        <ID>540</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Goblin Battle Standard</Name>
+        <ID>361</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Suspicious Looking Eye</Name>
+        <ID>43</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Worm Food</Name>
+        <ID>70</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Slime Crown</Name>
+        <ID>560</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mechanical Eye</Name>
+        <ID>544</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mechanical Worm</Name>
+        <ID>556</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mechanical Skull</Name>
+        <ID>557</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Golden Key</Name>
+        <ID>327</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Shadow Key</Name>
+        <ID>329</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Coin</Name>
+        <ID>71</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Silver Coin</Name>
+        <ID>72</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gold Coin</Name>
+        <ID>73</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Platinum Coin</Name>
+        <ID>74</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Vanity</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Goggles</Name>
+        <ID>37</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Jungle Rose</Name>
+        <ID>208</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Fish Bowl</Name>
+        <ID>250</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Robe</Name>
+        <ID>262</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mime Mask</Name>
+        <ID>322</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Bunny Hood</Name>
+        <ID>243</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Summer Hat</Name>
+        <ID>242</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Robot Hat</Name>
+        <ID>263</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Archaeologist's Hat</Name>
+        <ID>251</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Plumber's Hat</Name>
+        <ID>244</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Top Hat</Name>
+        <ID>239</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Familiar Wig</Name>
+        <ID>271</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Red Hat</Name>
+        <ID>260</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Ninja Hood</Name>
+        <ID>256</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hero's Hat</Name>
+        <ID>247</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Clown Hat</Name>
+        <ID>503</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gold Crown</Name>
+        <ID>264</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Archaeologist's Jacket</Name>
+        <ID>252</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Plumber's Shirt</Name>
+        <ID>245</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Tuxedo Shirt</Name>
+        <ID>240</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Familiar Shirt</Name>
+        <ID>269</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>The Doctor's Shirt</Name>
+        <ID>325</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Ninja Shirt</Name>
+        <ID>257</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hero's Shirt</Name>
+        <ID>248</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Clown Shirt</Name>
+        <ID>504</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Archaeologist's Pants</Name>
+        <ID>253</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Plumber's Pants</Name>
+        <ID>246</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Tuxedo Pants</Name>
+        <ID>241</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Familiar Pants</Name>
+        <ID>270</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>The Doctor's Pants</Name>
+        <ID>326</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Ninja Pants</Name>
+        <ID>258</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hero's Pants</Name>
+        <ID>249</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Clown Pants</Name>
+        <ID>505</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Consumables</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Lesser Healing Potion</Name>
+        <ID>28</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Lesser Mana Potion</Name>
+        <ID>110</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Lesser Restoration Potion</Name>
+        <ID>226</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Healing Potion</Name>
+        <ID>188</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mana Potion</Name>
+        <ID>189</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Restoration Potion</Name>
+        <ID>227</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Greater Healing Potion</Name>
+        <ID>499</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Greater Mana Potion</Name>
+        <ID>500</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Archery Potion</Name>
+        <ID>303</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Battle Potion</Name>
+        <ID>300</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Featherfall Potion</Name>
+        <ID>295</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gills Potion</Name>
+        <ID>291</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gravitation Potion</Name>
+        <ID>305</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hunter Potion</Name>
+        <ID>304</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Invisibility Potion</Name>
+        <ID>297</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Ironskin Potion</Name>
+        <ID>292</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Magic Power Potion</Name>
+        <ID>294</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mana Regeneration Potion</Name>
+        <ID>293</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Night Owl Potion</Name>
+        <ID>299</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Skin Potion</Name>
+        <ID>288</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Regeneration Potion</Name>
+        <ID>289</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Shine Potion</Name>
+        <ID>298</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spelunker Potion</Name>
+        <ID>296</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Swiftness Potion</Name>
+        <ID>290</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Thorns Potion</Name>
+        <ID>301</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Water Walking Potion</Name>
+        <ID>302</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mushroom</Name>
+        <ID>5</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Glowing Mushroom</Name>
+        <ID>183</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Ale</Name>
+        <ID>353</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Bowl of Soup</Name>
+        <ID>357</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Goldfish</Name>
+        <ID>261</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Fallen Star</Name>
+        <ID>75</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Life Crystal</Name>
+        <ID>29</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mana Crystal</Name>
+        <ID>109</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Materials: Part 1</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Copper Pickaxe</Name>
+        <ID>1</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Hammer</Name>
+        <ID>7</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Phaseblade</Name>
+        <ID>198</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cobweb</Name>
+        <ID>150</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Silk</Name>
+        <ID>225</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gel</Name>
+        <ID>23</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Lens</Name>
+        <ID>38</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Black Lens</Name>
+        <ID>236</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Iron Chain</Name>
+        <ID>85</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hook</Name>
+        <ID>118</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Shadow Scale</Name>
+        <ID>86</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Tattered Cloth</Name>
+        <ID>362</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Leather</Name>
+        <ID>259</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Rotten Chunk</Name>
+        <ID>68</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Worm Tooth</Name>
+        <ID>69</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cactus</Name>
+        <ID>276</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Water Bucket</Name>
+        <ID>206</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Lava Bucket</Name>
+        <ID>207</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Vile Powder</Name>
+        <ID>67</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Stinger</Name>
+        <ID>209</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Feather</Name>
+        <ID>320</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Vine</Name>
+        <ID>210</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Jungle Spores</Name>
+        <ID>331</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Shark Fin</Name>
+        <ID>319</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Antlion Mandible</Name>
+        <ID>323</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Illegal Gun Parts</Name>
+        <ID>324</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Glowstick</Name>
+        <ID>282</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Green Dye</Name>
+        <ID>255</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Black Dye</Name>
+        <ID>254</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Bar</Name>
+        <ID>20</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Iron Bar</Name>
+        <ID>22</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Silver Bar</Name>
+        <ID>21</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gold Bar</Name>
+        <ID>19</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Demonite Bar</Name>
+        <ID>57</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Meteorite Bar</Name>
+        <ID>117</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hellstone Bar</Name>
+        <ID>175</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cobalt Bar</Name>
+        <ID>381</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mythril Bar</Name>
+        <ID>382</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Adamantite Bar</Name>
+        <ID>391</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Materials: Part 2</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Bell</Name>
+        <ID>507</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Harp</Name>
+        <ID>508</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spell Tome</Name>
+        <ID>531</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cursed Flame</Name>
+        <ID>522</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Dark Shard</Name>
+        <ID>527</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Light Shard</Name>
+        <ID>528</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Pixie Dust</Name>
+        <ID>501</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Unicorn Horn</Name>
+        <ID>526</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Soul of Flight</Name>
+        <ID>575</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Soul of Fright</Name>
+        <ID>547</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Soul of Light</Name>
+        <ID>520</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Soul of Might</Name>
+        <ID>548</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Soul of Night</Name>
+        <ID>521</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Soul of Sight</Name>
+        <ID>549</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Mechanical</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Copper Pickaxe</Name>
+        <ID>1</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Hammer</Name>
+        <ID>7</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Phaseblade</Name>
+        <ID>198</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wrench</Name>
+        <ID>509</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wire Cutter</Name>
+        <ID>510</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Switch</Name>
+        <ID>538</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Active Stone Block</Name>
+        <ID>511</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Inactive Stone Block</Name>
+        <ID>512</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wire</Name>
+        <ID>530</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Lever</Name>
+        <ID>513</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Brown Pressure Plate</Name>
+        <ID>543</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gray Pressure Plate</Name>
+        <ID>542</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Green Pressure Plate</Name>
+        <ID>541</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Red Pressure Plate</Name>
+        <ID>529</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>1 Second Timer</Name>
+        <ID>583</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>3 Second Timer</Name>
+        <ID>584</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>5 Second Timer</Name>
+        <ID>585</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Inlet Pump</Name>
+        <ID>581</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Outlet Pump</Name>
+        <ID>582</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Dart Trap</Name>
+        <ID>539</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Ammo</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wooden Arrow</Name>
+        <ID>40</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Flaming Arrow</Name>
+        <ID>41</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Unholy Arrow</Name>
+        <ID>47</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Jester's Arrow</Name>
+        <ID>51</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hellfire Arrow</Name>
+        <ID>265</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Holy Arrow</Name>
+        <ID>516</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cursed Arrow</Name>
+        <ID>545</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Seed</Name>
+        <ID>283</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Musket Ball</Name>
+        <ID>97</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Silver Bullet</Name>
+        <ID>278</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Meteor Shot</Name>
+        <ID>234</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Crystal Bullet</Name>
+        <ID>515</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cursed Bullet</Name>
+        <ID>546</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Alchemy</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Copper Pickaxe</Name>
+        <ID>1</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Hammer</Name>
+        <ID>7</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Phaseblade</Name>
+        <ID>198</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Clay Pot</Name>
+        <ID>222</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Bottled Water</Name>
+        <ID>126</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Bottle</Name>
+        <ID>31</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Acorn</Name>
+        <ID>27</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunflower</Name>
+        <ID>63</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blinkroot Seeds</Name>
+        <ID>309</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Daybloom Seeds</Name>
+        <ID>307</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Fireblossom Seeds</Name>
+        <ID>312</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Moonglow Seeds</Name>
+        <ID>308</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Deathweed Seeds</Name>
+        <ID>310</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Waterleaf Seeds</Name>
+        <ID>311</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blinkroot</Name>
+        <ID>315</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Daybloom</Name>
+        <ID>313</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Fireblossom</Name>
+        <ID>318</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Moonglow</Name>
+        <ID>314</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Deathweed</Name>
+        <ID>316</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Waterleaf</Name>
+        <ID>317</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Statues: Useful</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Bat Statue</Name>
+        <ID>443</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Bird Statue</Name>
+        <ID>464</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Bomb Statue</Name>
+        <ID>453</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Bunny Statue</Name>
+        <ID>445</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Chest Statue</Name>
+        <ID>463</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Crab Statue</Name>
+        <ID>454</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Fish Statue</Name>
+        <ID>444</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Heart Statue</Name>
+        <ID>473</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Jellyfish Statue</Name>
+        <ID>459</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>King Statue</Name>
+        <ID>476</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mushroom Statue</Name>
+        <ID>470</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name />
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Queen Statue</Name>
+        <ID>477</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Skeleton Statue</Name>
+        <ID>446</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Slime Statue</Name>
+        <ID>440</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Star Statue</Name>
+        <ID>438</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Statues: Useless</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Angel Statue</Name>
+        <ID>52</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Anvil Statue</Name>
+        <ID>468</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Axe Statue</Name>
+        <ID>465</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Boomerang Statue</Name>
+        <ID>461</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Boot Statue</Name>
+        <ID>462</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Bow Statue</Name>
+        <ID>460</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Corrupt Statue</Name>
+        <ID>466</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cross Statue</Name>
+        <ID>458</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Eyeball Statue</Name>
+        <ID>471</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gargoyle Statue</Name>
+        <ID>450</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gloom Statue</Name>
+        <ID>451</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Goblin Statue</Name>
+        <ID>441</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hammer Statue</Name>
+        <ID>455</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hornet Statue</Name>
+        <ID>452</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Imp Statue</Name>
+        <ID>449</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Pickaxe Statue</Name>
+        <ID>469</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Pillar Statue</Name>
+        <ID>472</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Pot Statue</Name>
+        <ID>474</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Potion Statue</Name>
+        <ID>456</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Reaper Statue</Name>
+        <ID>447</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Shield Statue</Name>
+        <ID>442</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spear Statue</Name>
+        <ID>457</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunflower Statue</Name>
+        <ID>475</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sword Statue</Name>
+        <ID>439</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Tree Statue</Name>
+        <ID>467</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Woman Statue</Name>
+        <ID>448</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Crafting Stations</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Copper Pickaxe</Name>
+        <ID>1</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Hammer</Name>
+        <ID>7</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wooden Chair</Name>
+        <ID>34</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wooden Table</Name>
+        <ID>32</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Work Bench</Name>
+        <ID>36</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sawmill</Name>
+        <ID>363</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Keg</Name>
+        <ID>352</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cooking Pot</Name>
+        <ID>345</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Iron Anvil</Name>
+        <ID>35</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mythril Anvil</Name>
+        <ID>525</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Furnace</Name>
+        <ID>33</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hellforge</Name>
+        <ID>221</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Adamantite Forge</Name>
+        <ID>524</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Loom</Name>
+        <ID>332</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Bookcase</Name>
+        <ID>354</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Tinkerer's Workshop</Name>
+        <ID>398</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Decorations</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Copper Pickaxe</Name>
+        <ID>1</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Hammer</Name>
+        <ID>7</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wooden Door</Name>
+        <ID>25</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wooden Chair</Name>
+        <ID>34</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wooden Table</Name>
+        <ID>32</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Bed</Name>
+        <ID>224</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sign</Name>
+        <ID>171</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Tombstone</Name>
+        <ID>321</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Book</Name>
+        <ID>149</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Bookcase</Name>
+        <ID>354</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name />
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Toilet</Name>
+        <ID>358</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Bathtub</Name>
+        <ID>336</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Bench</Name>
+        <ID>335</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Piano</Name>
+        <ID>333</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Grandfather Clock</Name>
+        <ID>359</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Dresser</Name>
+        <ID>334</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Throne</Name>
+        <ID>355</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Pink Vase</Name>
+        <ID>350</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Bowl</Name>
+        <ID>356</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mannequin</Name>
+        <ID>498</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mug</Name>
+        <ID>351</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Coral</Name>
+        <ID>275</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Crystal Shard</Name>
+        <ID>502</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spike</Name>
+        <ID>147</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Red Banner</Name>
+        <ID>337</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Green Banner</Name>
+        <ID>338</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Banner</Name>
+        <ID>339</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Yellow Banner</Name>
+        <ID>340</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Chest</Name>
+        <ID>48</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gold Chest</Name>
+        <ID>306</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Shadow Chest</Name>
+        <ID>328</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Barrel</Name>
+        <ID>343</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Trash Can</Name>
+        <ID>348</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Safe</Name>
+        <ID>346</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Piggy Bank</Name>
+        <ID>87</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Music Boxes</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Ivy Whip</Name>
+        <ID>185</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Music Box</Name>
+        <ID>576</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Music Box (Boss 1)</Name>
+        <ID>567</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Music Box (Boss 2)</Name>
+        <ID>572</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Music Box (Boss 3)</Name>
+        <ID>574</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Music Box (Corruption)</Name>
+        <ID>569</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Music Box (Eerie)</Name>
+        <ID>563</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Music Box (Jungle)</Name>
+        <ID>568</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Music Box (Night)</Name>
+        <ID>564</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Music Box (Overworld Day)</Name>
+        <ID>562</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Music Box (The Hallow)</Name>
+        <ID>571</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Music Box (Title)</Name>
+        <ID>565</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Music Box (Underground)</Name>
+        <ID>566</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Music Box (Underground Corruption)</Name>
+        <ID>570</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Music Box (Underground Hallow)</Name>
+        <ID>573</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Lighting</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Copper Pickaxe</Name>
+        <ID>1</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Hammer</Name>
+        <ID>7</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Phaseblade</Name>
+        <ID>198</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Torch</Name>
+        <ID>8</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Candle</Name>
+        <ID>105</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Water Candle</Name>
+        <ID>148</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Candelabra</Name>
+        <ID>349</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Skull Lantern</Name>
+        <ID>347</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Tiki Torch</Name>
+        <ID>342</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Lamp Post</Name>
+        <ID>341</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cursed Torch</Name>
+        <ID>523</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Demon Torch</Name>
+        <ID>433</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Torch</Name>
+        <ID>427</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Green Torch</Name>
+        <ID>429</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Purple Torch</Name>
+        <ID>430</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Red Torch</Name>
+        <ID>428</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>White Torch</Name>
+        <ID>431</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Yellow Torch</Name>
+        <ID>432</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Chandelier</Name>
+        <ID>106</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Silver Chandelier</Name>
+        <ID>107</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gold Chandelier</Name>
+        <ID>108</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Chain Lantern</Name>
+        <ID>136</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Chinese Lantern</Name>
+        <ID>344</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Disco Ball</Name>
+        <ID>488</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Ores &amp; Gems</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Copper Pickaxe</Name>
+        <ID>1</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Hammer</Name>
+        <ID>7</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Phaseblade</Name>
+        <ID>198</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Torch</Name>
+        <ID>8</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wood Platform</Name>
+        <ID>94</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Ore</Name>
+        <ID>12</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Iron Ore</Name>
+        <ID>11</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Silver Ore</Name>
+        <ID>14</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gold Ore</Name>
+        <ID>13</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Demonite Ore</Name>
+        <ID>56</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Meteorite</Name>
+        <ID>116</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian</Name>
+        <ID>173</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hellstone</Name>
+        <ID>174</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cobalt Ore</Name>
+        <ID>364</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mythril Ore</Name>
+        <ID>365</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Adamantite Ore</Name>
+        <ID>366</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Amethyst</Name>
+        <ID>181</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Diamond</Name>
+        <ID>182</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Emerald</Name>
+        <ID>179</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Ruby</Name>
+        <ID>178</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sapphire</Name>
+        <ID>177</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Topaz</Name>
+        <ID>180</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Walls</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Copper Pickaxe</Name>
+        <ID>1</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Hammer</Name>
+        <ID>7</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Phaseblade</Name>
+        <ID>198</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Dirt Wall</Name>
+        <ID>30</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Stone Wall</Name>
+        <ID>26</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wood Wall</Name>
+        <ID>93</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gray Brick Wall</Name>
+        <ID>130</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Red Brick Wall</Name>
+        <ID>132</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Glass Wall</Name>
+        <ID>392</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Planked Wall</Name>
+        <ID>479</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Brick Wall</Name>
+        <ID>146</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Silver Brick Wall</Name>
+        <ID>144</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gold Brick Wall</Name>
+        <ID>142</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Brick Wall</Name>
+        <ID>330</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Pink Brick Wall</Name>
+        <ID>140</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Green Brick Wall</Name>
+        <ID>138</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Brick Wall</Name>
+        <ID>135</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cobalt Brick Wall</Name>
+        <ID>420</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Iridescent Brick Wall</Name>
+        <ID>418</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mythril Brick Wall</Name>
+        <ID>421</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Pearlstone Brick Wall</Name>
+        <ID>417</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mudstone Brick Wall</Name>
+        <ID>419</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Soils &amp; Blocks</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Copper Pickaxe</Name>
+        <ID>1</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Hammer</Name>
+        <ID>7</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Phaseblade</Name>
+        <ID>198</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Torch</Name>
+        <ID>8</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wood Platform</Name>
+        <ID>94</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wood</Name>
+        <ID>9</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Dirt Block</Name>
+        <ID>2</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sand Block</Name>
+        <ID>169</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Clay Block</Name>
+        <ID>133</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mud Block</Name>
+        <ID>176</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Ash Block</Name>
+        <ID>172</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Silt Block</Name>
+        <ID>424</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Stone Block</Name>
+        <ID>3</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Ebonstone Block</Name>
+        <ID>61</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Pearlstone Block</Name>
+        <ID>409</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Pearlsand Block</Name>
+        <ID>408</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Ebonsand Block</Name>
+        <ID>370</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Grass Seeds</Name>
+        <ID>62</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Jungle Grass Seeds</Name>
+        <ID>195</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mushroom Grass Seeds</Name>
+        <ID>194</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Corrupt Seeds</Name>
+        <ID>59</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hallowed Seeds</Name>
+        <ID>369</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+  <Inventory>
+    <Name>Bricks</Name>
+    <Items>
+      <InventoryItem>
+        <Name>Copper Pickaxe</Name>
+        <ID>1</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Hammer</Name>
+        <ID>7</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Phaseblade</Name>
+        <ID>198</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Torch</Name>
+        <ID>8</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wood Platform</Name>
+        <ID>94</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gray Brick</Name>
+        <ID>129</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Red Brick</Name>
+        <ID>131</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Glass</Name>
+        <ID>170</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wood</Name>
+        <ID>9</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Wooden Beam</Name>
+        <ID>480</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Copper Brick</Name>
+        <ID>145</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Silver Brick</Name>
+        <ID>143</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Gold Brick</Name>
+        <ID>141</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Brick</Name>
+        <ID>192</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Hellstone Brick</Name>
+        <ID>214</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Pink Brick</Name>
+        <ID>139</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Green Brick</Name>
+        <ID>137</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Blue Brick</Name>
+        <ID>134</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cobalt Brick</Name>
+        <ID>415</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Demonite Brick</Name>
+        <ID>577</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Iridescent Brick</Name>
+        <ID>413</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mythril Brick</Name>
+        <ID>416</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Pearlstone Brick</Name>
+        <ID>412</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Mudstone Block</Name>
+        <ID>414</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Sunglasses</Name>
+        <ID>237</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Cloud in a Balloon</Name>
+        <ID>399</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Spectre Boots</Name>
+        <ID>405</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <Name>Obsidian Horseshoe</Name>
+        <ID>396</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+      <InventoryItem>
+        <ID>0</ID>
+      </InventoryItem>
+    </Items>
+  </Inventory>
+</ArrayOfInventory>

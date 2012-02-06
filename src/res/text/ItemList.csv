@@ -1,0 +1,629 @@
+# ID, Name,                                Type,              Max
+
+  1, "Iron Pickaxe",                       TOOL_PICK,           1
+  1, "Gold Pickaxe",                       TOOL_PICK,           1
+  1, "Silver Pickaxe",                     TOOL_PICK,           1
+  1, "Copper Pickaxe",                     TOOL_PICK,           1
+  2, "Dirt Block",                         BUILDING,          250
+  3, "Stone Block",                        BUILDING,          250
+  4, "Iron Broadsword",                    WEAPON_MELEE,        1
+  4, "Gold Broadsword",                    WEAPON_MELEE,        1
+  4, "Silver Broadsword",                  WEAPON_MELEE,        1
+  4, "Copper Broadsword",                  WEAPON_MELEE,        1
+  5, "Mushroom",                           CONSUMABLE,         99
+  6, "Iron Shortsword",                    WEAPON_MELEE,        1
+  6, "Gold Shortsword",                    WEAPON_MELEE,        1
+  6, "Silver Shortsword",                  WEAPON_MELEE,        1
+  6, "Copper Shortsword",                  WEAPON_MELEE,        1
+  7, "Iron Hammer",                        TOOL_HAMMER,         1
+  7, "Gold Hammer",                        TOOL_HAMMER,         1
+  7, "Silver Hammer",                      TOOL_HAMMER,         1
+  7, "Copper Hammer",                      TOOL_HAMMER,         1
+  8, "Torch",                              LIGHTING,           99
+  9, "Wood",                               BUILDING,          250
+ 10, "Iron Axe",                           TOOL_AXE,            1
+ 10, "Gold Axe",                           TOOL_AXE,            1
+ 10, "Silver Axe",                         TOOL_AXE,            1
+ 10, "Copper Axe",                         TOOL_AXE,            1
+ 11, "Iron Ore",                           ORE,                99
+ 12, "Copper Ore",                         ORE,                99
+ 13, "Gold Ore",                           ORE,                99
+ 14, "Silver Ore",                         ORE,                99
+ 15, "Copper Watch",                       ACCESSORY,           1
+ 16, "Silver Watch",                       ACCESSORY,           1
+ 17, "Gold Watch",                         ACCESSORY,           1
+ 18, "Depth Meter",                        ACCESSORY,           1
+ 19, "Gold Bar",                           ORE,                99
+ 20, "Copper Bar",                         ORE,                99
+ 21, "Silver Bar",                         ORE,                99
+ 22, "Iron Bar",                           ORE,                99
+ 23, "Gel",                                CONSUMABLE,        250
+ 24, "Wooden Sword",                       WEAPON_MELEE,        1
+ 25, "Wooden Door",                        FURNITURE,          99
+ 26, "Stone Wall",                         BUILDING,          250
+ 27, "Acorn",                              CONSUMABLE,         99
+ 28, "Lesser Healing Potion",              POTION,             30
+ 29, "Life Crystal",                       CONSUMABLE,         99
+ 30, "Dirt Wall",                          BUILDING,          250
+ 31, "Bottle",                             CONSUMABLE,         99
+ 32, "Wooden Table",                       FURNITURE,          99
+ 33, "Furnace",                            FURNITURE,          99
+ 34, "Wooden Chair",                       FURNITURE,          99
+ 35, "Iron Anvil",                         FURNITURE,          99
+ 36, "Work Bench",                         FURNITURE,          99
+ 37, "Goggles",                            ARMOR_HEAD,          1
+ 38, "Lens",                               CONSUMABLE,         99
+ 39, "Wooden Bow",                         WEAPON_BOW,          1
+ 40, "Wooden Arrow",                       AMMUNITION,        250
+ 41, "Flaming Arrow",                      AMMUNITION,        250
+ 42, "Shuriken",                           AMMUNITION,        250
+ 43, "Suspicious Looking Eye",             CONSUMABLE,          1
+ 44, "Demon Bow",                          WEAPON_BOW,          1
+ 45, "War Axe of the Night",               WEAPON_MELEE,        1
+ 46, "Light's Bane",                       WEAPON_MELEE,        1
+ 47, "Unholy Arrow",                       AMMUNITION,        250
+ 48, "Chest",                              FURNITURE,          99
+ 49, "Band of Regeneration",               ACCESSORY,           1
+ 50, "Magic Mirror",                       MISCELLANEOUS,       1
+ 51, "Jester's Arrow",                     AMMUNITION,        250
+ 52, "Angel Statue",                       STATUE,              1
+ 53, "Cloud in a Bottle",                  ACCESSORY,           1
+ 54, "Hermes Boots",                       ACCESSORY,           1
+ 55, "Enchanted Boomerang",                WEAPON_BOOMERANG,    1
+ 56, "Demonite Ore",                       ORE,                99
+ 57, "Demonite Bar",                       ORE,                99
+ 58, "Heart",                              CONSUMABLE,         99
+ 59, "Corrupt Seeds",                      CONSUMABLE,         99
+ 60, "Vile Mushroom",                      CONSUMABLE,         99
+ 61, "Ebonstone Block",                    BUILDING,          250
+ 62, "Grass Seeds",                        CONSUMABLE,         99
+ 63, "Sunflower",                          CONSUMABLE,         99
+ 64, "Vilethorn",                          WEAPON_MAGICAL,      1
+ 65, "Starfury",                           WEAPON_MAGICAL,      1
+ 66, "Purification Powder",                CONSUMABLE,         99
+ 67, "Vile Powder",                        CONSUMABLE,         99
+ 68, "Rotten Chunk",                       CONSUMABLE,         99
+ 69, "Worm Tooth",                         CONSUMABLE,         99
+ 70, "Worm Food",                          CONSUMABLE,          1
+ 71, "Copper Coin",                        COIN,              100
+ 72, "Silver Coin",                        COIN,              100
+ 73, "Gold Coin",                          COIN,              100
+ 74, "Platinum Coin",                      COIN,              100
+ 75, "Fallen Star",                        AMMUNITION,               99
+ 76, "Copper Greaves",                     ARMOR_LEGS,          1
+ 77, "Iron Greaves",                       ARMOR_LEGS,          1
+ 78, "Silver Greaves",                     ARMOR_LEGS,          1
+ 79, "Gold Greaves",                       ARMOR_LEGS,          1
+ 80, "Copper Chainmail",                   ARMOR_BODY,          1
+ 81, "Iron Chainmail",                     ARMOR_BODY,          1
+ 82, "Silver Chainmail",                   ARMOR_BODY,          1
+ 83, "Gold Chainmail",                     ARMOR_BODY,          1
+ 84, "Grappling Hook",                     TOOL_OTHER,          1
+ 85, "Iron Chain",                         CONSUMABLE,         99
+ 86, "Shadow Scale",                       ARMOR_BODY,          1
+ 87, "Piggy Bank",                         FURNITURE,          99
+ 88, "Mining Helmet",                      ARMOR_HEAD,          1
+ 89, "Copper Helmet",                      ARMOR_HEAD,          1
+ 90, "Iron Helmet",                        ARMOR_HEAD,          1
+ 91, "Silver Helmet",                      ARMOR_HEAD,          1
+ 92, "Gold Helmet",                        ARMOR_HEAD,          1
+ 93, "Wood Wall",                          BUILDING,          250
+ 94, "Wood Platform",                      BUILDING,          250
+ 95, "Flintlock Pistol",                   WEAPON_GUN,          1
+ 96, "Musket",                             WEAPON_GUN,          1
+ 97, "Musket Ball",                        AMMUNITION,        250
+ 98, "Minishark",                          WEAPON_GUN,          1
+ 99, "Iron Bow",                           WEAPON_BOW,          1
+ 99, "Gold Bow",                           WEAPON_BOW,          1
+ 99, "Silver Bow",                         WEAPON_BOW,          1
+ 99, "Copper Bow",                         WEAPON_BOW,          1
+100, "Shadow Greaves",                     ARMOR_LEGS,          1
+101, "Shadow Scalemail",                   ARMOR_BODY,          1
+102, "Shadow Helmet",                      ARMOR_HEAD,          1
+103, "Nightmare Pickaxe",                  TOOL_PICK,           1
+104, "The Breaker",                        TOOL_HAMMER,         1
+105, "Candle",                             LIGHTING,           99
+106, "Copper Chandelier",                  LIGHTING,           99
+107, "Silver Chandelier",                  LIGHTING,           99
+108, "Gold Chandelier",                    LIGHTING,           99
+109, "Mana Crystal",                       CONSUMABLE,         99
+110, "Lesser Mana Potion",                 POTION,             30
+111, "Band of Starpower",                  ACCESSORY,           1
+112, "Flower of Fire",                     WEAPON_MAGICAL,      1
+113, "Magic Missile",                      WEAPON_MAGICAL,      1
+114, "Dirt Rod",                           TOOL_OTHER,          1
+115, "Orb of Light",                       POTION,              1
+116, "Meteorite",                          ORE,                99
+117, "Meteorite Bar",                      ORE,                99
+118, "Hook",                               CONSUMABLE,         99
+119, "Flamarang",                          WEAPON_BOOMERANG,    1
+120, "Molten Fury",                        WEAPON_BOW,          1
+121, "Fiery Greatsword",                   WEAPON_MELEE,        1
+122, "Molten Pickaxe",                     TOOL_PICK,           1
+123, "Meteor Helmet",                      ARMOR_HEAD,          1
+124, "Meteor Suit",                        ARMOR_BODY,          1
+125, "Meteor Leggings",                    ARMOR_LEGS,          1
+126, "Bottled Water",                      POTION,             30
+127, "Space Gun",                          WEAPON_MAGICAL,      1
+128, "Rocket Boots",                       ACCESSORY,           1
+129, "Gray Brick",                         BUILDING,          250
+130, "Gray Brick Wall",                    BUILDING,          250
+131, "Red Brick",                          BUILDING,          250
+132, "Red Brick Wall",                     BUILDING,          250
+133, "Clay Block",                         BUILDING,          250
+134, "Blue Brick",                         BUILDING,          250
+135, "Blue Brick Wall",                    BUILDING,          250
+136, "Chain Lantern",                      LIGHTING,           99
+137, "Green Brick",                        BUILDING,          250
+138, "Green Brick Wall",                   BUILDING,          250
+139, "Pink Brick",                         BUILDING,          250
+140, "Pink Brick Wall",                    BUILDING,          250
+141, "Gold Brick",                         BUILDING,          250
+142, "Gold Brick Wall",                    BUILDING,          250
+143, "Silver Brick",                       BUILDING,          250
+144, "Silver Brick Wall",                  BUILDING,          250
+145, "Copper Brick",                       BUILDING,          250
+146, "Copper Brick Wall",                  BUILDING,          250
+147, "Spike",                              BUILDING,          250
+148, "Water Candle",                       LIGHTING,           99
+149, "Book",                               FURNITURE,          99
+150, "Cobweb",                             CONSUMABLE,        250
+151, "Necro Helmet",                       ARMOR_HEAD,          1
+152, "Necro Breastplate",                  ARMOR_BODY,          1
+153, "Necro Greaves",                      ARMOR_LEGS,          1
+154, "Bone",                               CONSUMABLE,         99
+155, "Muramasa",                           WEAPON_MELEE,        1
+156, "Cobalt Shield",                      ACCESSORY,           1
+157, "Aqua Scepter",                       WEAPON_MAGICAL,      1
+158, "Lucky Horseshoe",                    ACCESSORY,           1
+159, "Shiny Red Balloon",                  ACCESSORY,           1
+160, "Harpoon",                            WEAPON_FLAIL,        1
+161, "Spiky Ball",                         WEAPON_THROWN,     250
+162, "Ball O' Hurt",                       WEAPON_FLAIL,        1
+163, "Blue Moon",                          WEAPON_FLAIL,        1
+164, "Handgun",                            WEAPON_GUN,          1
+165, "Water Bolt",                         WEAPON_MAGICAL,      1
+166, "Bomb",                               WEAPON_EXPLOSIVE,   20
+167, "Dynamite",                           WEAPON_EXPLOSIVE,    3
+168, "Grenade",                            WEAPON_EXPLOSIVE,   20
+169, "Sand Block",                         BUILDING,          250
+170, "Glass",                              BUILDING,          250
+171, "Sign",                               FURNITURE,          99
+172, "Ash Block",                          BUILDING,          250
+173, "Obsidian",                           ORE,                99
+174, "Hellstone",                          ORE,               250
+175, "Hellstone Bar",                      ORE,                99
+176, "Mud Block",                          BUILDING,          250
+177, "Sapphire",                           CONSUMABLE,         99
+178, "Ruby",                               CONSUMABLE,         99
+179, "Emerald",                            CONSUMABLE,         99
+180, "Topaz",                              CONSUMABLE,         99
+181, "Amethyst",                           CONSUMABLE,         99
+182, "Diamond",                            CONSUMABLE,         99
+183, "Glowing Mushroom",                   CONSUMABLE,         99
+184, "Star",                               AMMUNITION,        250
+185, "Ivy Whip",                           TOOL_OTHER,          1
+186, "Breathing Reed",                     ACCESSORY,           1
+187, "Flipper",                            ACCESSORY,           1
+188, "Healing Potion",                     POTION,             30
+189, "Mana Potion",                        POTION,             30
+190, "Blade of Grass",                     WEAPON_MELEE,        1
+191, "Thorn Chakram",                      WEAPON_BOOMERANG,    1
+192, "Obsidian Brick",                     BUILDING,          250
+193, "Obsidian Skull",                     ACCESSORY,           1
+194, "Mushroom Grass Seeds",               CONSUMABLE,         99
+195, "Jungle Grass Seeds",                 CONSUMABLE,         99
+196, "Wooden Hammer",                      TOOL_HAMMER,         1
+197, "Star Cannon",                        WEAPON_GUN,          1
+198, "Blue Phaseblade",                    WEAPON_MELEE,        1
+198, "Blue Phasesaber",                    WEAPON_MELEE,        1
+199, "Red Phaseblade",                     WEAPON_MELEE,        1
+199, "Red Phasesaber",                     WEAPON_MELEE,        1
+200, "Green Phaseblade",                   WEAPON_MELEE,        1
+200, "Green Phasesaber",                   WEAPON_MELEE,        1
+201, "Purple Phaseblade",                  WEAPON_MELEE,        1
+201, "Purple Phasesaber",                  WEAPON_MELEE,        1
+202, "White Phaseblade",                   WEAPON_MELEE,        1
+202, "White Phasesaber",                   WEAPON_MELEE,        1
+203, "Yellow Phaseblade",                  WEAPON_MELEE,        1
+203, "Yellow Phasesaber",                  WEAPON_MELEE,        1
+204, "Meteor Hamaxe",                      TOOL_HAMAXE,         1
+205, "Empty Bucket",                       TOOL_OTHER,          1
+206, "Water Bucket",                       TOOL_OTHER,          1
+207, "Lava Bucket",                        TOOL_OTHER,          1
+208, "Jungle Rose",                        ARMOR_HEAD,          1
+209, "Stinger",                            CONSUMABLE,         99
+210, "Vine",                               CONSUMABLE,         99
+211, "Feral Claws",                        ACCESSORY,           1
+212, "Anklet of the Wind",                 ACCESSORY,           1
+213, "Staff of Regrowth",                  WEAPON_MELEE,        1
+214, "Hellstone Brick",                    BUILDING,          250
+215, "Whoopie Cushion",                    MISCELLANEOUS,       1
+216, "Shackle",                            ACCESSORY,           1
+217, "Molten Hamaxe",                      TOOL_HAMAXE,         1
+218, "Flamelash",                          WEAPON_MAGICAL,      1
+219, "Phoenix Blaster",                    WEAPON_GUN,          1
+220, "Sunfury",                            WEAPON_FLAIL,        1
+221, "Hellforge",                          FURNITURE,          99
+222, "Clay Pot",                           FURNITURE,          99
+223, "Nature's Gift",                      ACCESSORY,           1
+224, "Bed",                                FURNITURE,          99
+225, "Silk",                               CONSUMABLE,         99
+226, "Lesser Restoration Potion",          POTION,             30
+227, "Restoration Potion",                 POTION,             30
+228, "Jungle Hat",                         ARMOR_HEAD,          1
+229, "Jungle Shirt",                       ARMOR_BODY,          1
+230, "Jungle Pants",                       ARMOR_LEGS,          1
+231, "Molten Helmet",                      ARMOR_HEAD,          1
+232, "Molten Breastplate",                 ARMOR_BODY,          1
+233, "Molten Greaves",                     ARMOR_LEGS,          1
+234, "Meteor Shot",                        AMMUNITION,        250
+235, "Sticky Bomb",                        WEAPON_EXPLOSIVE,   20
+236, "Black Lens",                         CONSUMABLE,         99
+237, "Sunglasses",                         ARMOR_HEAD,          1
+238, "Wizard Hat",                         ARMOR_HEAD,          1
+239, "Top Hat",                            ARMOR_HEAD,          1
+240, "Tuxedo Shirt",                       ARMOR_BODY,          1
+241, "Tuxedo Pants",                       ARMOR_LEGS,          1
+242, "Summer Hat",                         ARMOR_HEAD,          1
+243, "Bunny Hood",                         ARMOR_HEAD,          1
+244, "Plumber's Hat",                      ARMOR_HEAD,          1
+245, "Plumber's Shirt",                    ARMOR_BODY,          1
+246, "Plumber's Pants",                    ARMOR_LEGS,          1
+247, "Hero's Hat",                         ARMOR_HEAD,          1
+248, "Hero's Shirt",                       ARMOR_BODY,          1
+249, "Hero's Pants",                       ARMOR_LEGS,          1
+250, "Fish Bowl",                          ARMOR_HEAD,          1
+251, "Archaeologist's Hat",                ARMOR_HEAD,          1
+252, "Archaeologist's Jacket",             ARMOR_BODY,          1
+253, "Archaeologist's Pants",              ARMOR_LEGS,          1
+254, "Black Dye",                          CONSUMABLE,         99
+255, "Green Dye",                          CONSUMABLE,         99
+256, "Ninja Hood",                         ARMOR_HEAD,          1
+257, "Ninja Shirt",                        ARMOR_BODY,          1
+258, "Ninja Pants",                        ARMOR_LEGS,          1
+259, "Leather",                            CONSUMABLE,         99
+260, "Red Hat",                            ARMOR_HEAD,          1
+261, "Goldfish",                           POTION,             20
+262, "Robe",                               ARMOR_BODY,          1
+263, "Robot Hat",                          ARMOR_HEAD,          1
+264, "Gold Crown",                         ARMOR_HEAD,          1
+265, "Hellfire Arrow",                     AMMUNITION,        250
+266, "Sandgun",                            WEAPON_GUN,          1
+267, "Guide Voodoo Doll",                  ACCESSORY,           1
+268, "Diving Helmet",                      ARMOR_HEAD,          1
+269, "Familiar Shirt",                     ARMOR_BODY,          1
+270, "Familiar Pants",                     ARMOR_LEGS,          1
+271, "Familiar Wig",                       ARMOR_HEAD,          1
+272, "Demon Scythe",                       WEAPON_MAGICAL,      1
+273, "Night's Edge",                       WEAPON_MELEE,        1
+274, "Dark Lance",                         WEAPON_SPEAR,        1
+275, "Coral",                              FURNITURE,          99
+276, "Cactus",                             CONSUMABLE,         99
+277, "Trident",                            WEAPON_SPEAR,        1
+278, "Silver Bullet",                      AMMUNITION,        250
+279, "Throwing Knife",                     AMMUNITION,        250
+280, "Spear",                              WEAPON_SPEAR,        1
+281, "Blowpipe",                           WEAPON_GUN,          1
+282, "Glowstick",                          CONSUMABLE,         99
+283, "Seed",                               AMMUNITION,        250
+284, "Wooden Boomerang",                   WEAPON_BOOMERANG,    1
+285, "Aglet",                              ACCESSORY,           1
+286, "Sticky Glowstick",                   CONSUMABLE,         99
+287, "Poisoned Knife",                     WEAPON_THROWN,     250
+288, "Obsidian Skin Potion",               POTION,             30
+289, "Regeneration Potion",                POTION,             30
+290, "Swiftness Potion",                   POTION,             30
+291, "Gills Potion",                       POTION,             30
+292, "Ironskin Potion",                    POTION,             30
+293, "Mana Regeneration Potion",           POTION,             30
+294, "Magic Power Potion",                 POTION,             30
+295, "Featherfall Potion",                 POTION,             30
+296, "Spelunker Potion",                   POTION,             30
+297, "Invisibility Potion",                POTION,             30
+298, "Shine Potion",                       POTION,             30
+299, "Night Owl Potion",                   POTION,             30
+300, "Battle Potion",                      POTION,             30
+301, "Thorns Potion",                      POTION,             30
+302, "Water Walking Potion",               POTION,             30
+303, "Archery Potion",                     POTION,             30
+304, "Hunter Potion",                      POTION,             30
+305, "Gravitation Potion",                 POTION,             30
+306, "Gold Chest",                         FURNITURE,          99
+307, "Daybloom Seeds",                     CONSUMABLE,         99
+308, "Moonglow Seeds",                     CONSUMABLE,         99
+309, "Blinkroot Seeds",                    CONSUMABLE,         99
+310, "Deathweed Seeds",                    CONSUMABLE,         99
+311, "Waterleaf Seeds",                    CONSUMABLE,         99
+312, "Fireblossom Seeds",                  CONSUMABLE,         99
+313, "Daybloom",                           CONSUMABLE,         99
+314, "Moonglow",                           CONSUMABLE,         99
+315, "Blinkroot",                          CONSUMABLE,         99
+316, "Deathweed",                          CONSUMABLE,         99
+317, "Waterleaf",                          CONSUMABLE,         99
+318, "Fireblossom",                        CONSUMABLE,         99
+319, "Shark Fin",                          CONSUMABLE,         99
+320, "Feather",                            CONSUMABLE,         99
+321, "Tombstone",                          FURNITURE,          99
+322, "Mime Mask",                          ARMOR_HEAD,          1
+323, "Antlion Mandible",                   CONSUMABLE,         99
+324, "Illegal Gun Parts",                  CONSUMABLE,         99
+325, "The Doctor's Shirt",                 ARMOR_BODY,          1
+326, "The Doctor's Pants",                 ARMOR_LEGS,          1
+327, "Golden Key",                         CONSUMABLE,         99
+328, "Shadow Chest",                       FURNITURE,          99
+329, "Shadow Key",                         CONSUMABLE,         99
+330, "Obsidian Brick Wall",                BUILDING,          250
+331, "Jungle Spores",                      CONSUMABLE,         99
+332, "Loom",                               FURNITURE,          99
+333, "Piano",                              FURNITURE,          99
+334, "Dresser",                            FURNITURE,          99
+335, "Bench",                              FURNITURE,          99
+336, "Bathtub",                            FURNITURE,          99
+337, "Red Banner",                         FURNITURE,          99
+338, "Green Banner",                       FURNITURE,          99
+339, "Blue Banner",                        FURNITURE,          99
+340, "Yellow Banner",                      FURNITURE,          99
+341, "Lamp Post",                          FURNITURE,          99
+342, "Tiki Torch",                         FURNITURE,          99
+343, "Barrel",                             FURNITURE,          99
+344, "Chinese Lantern",                    FURNITURE,          99
+345, "Cooking Pot",                        FURNITURE,          99
+346, "Safe",                               FURNITURE,          99
+347, "Skull Lantern",                      LIGHTING,           99
+348, "Trash Can",                          FURNITURE,          99
+349, "Candelabra",                         LIGHTING,           99
+350, "Pink Vase",                          FURNITURE,          99
+351, "Mug",                                FURNITURE,          99
+352, "Keg",                                FURNITURE,          99
+353, "Ale",                                POTION,             30
+354, "Bookcase",                           FURNITURE,          99
+355, "Throne",                             FURNITURE,          99
+356, "Bowl",                               FURNITURE,          99
+357, "Bowl of Soup",                       POTION,             99
+358, "Toilet",                             FURNITURE,          99
+359, "Grandfather Clock",                  FURNITURE,          99
+360, "Statue",                             STATUE,             99
+361, "Goblin Battle Standard",             CONSUMABLE,          1
+362, "Tattered Cloth",                     CONSUMABLE,         99
+363, "Sawmill",                            FURNITURE,          99
+364, "Cobalt Ore",                         ORE,                99
+365, "Mythril Ore",                        ORE,                99
+366, "Adamantite Ore",                     ORE,                99
+367, "Pwnhammer",                          TOOL_HAMMER,         1
+368, "Excalibur",                          WEAPON_MELEE,        1
+369, "Hallowed Seeds",                     CONSUMABLE,         99
+370, "Ebonsand Block",                     BUILDING,          250
+371, "Cobalt Hat",                         ARMOR_HEAD,          1
+372, "Cobalt Helmet",                      ARMOR_HEAD,          1
+373, "Cobalt Mask",                        ARMOR_HEAD,          1
+374, "Cobalt Breastplate",                 ARMOR_BODY,          1
+375, "Cobalt Leggings",                    ARMOR_LEGS,          1
+376, "Mythril Hood",                       ARMOR_HEAD,          1
+377, "Mythril Helmet",                     ARMOR_HEAD,          1
+378, "Mythril Hat",                        ARMOR_HEAD,          1
+379, "Mythril Chainmail",                  ARMOR_BODY,          1
+380, "Mythril Greaves",                    ARMOR_LEGS,          1
+381, "Cobalt Bar",                         ORE,                99
+382, "Mythril Bar",                        ORE,                99
+383, "Cobalt Chainsaw",                    TOOL_CHAINSAW,       1
+384, "Mythril Chainsaw",                   TOOL_CHAINSAW,       1
+385, "Cobalt Drill",                       TOOL_DRILL,          1
+386, "Mythril Drill",                      TOOL_DRILL,          1
+387, "Adamantite Chainsaw",                TOOL_CHAINSAW,       1
+388, "Adamantite Drill",                   TOOL_DRILL,          1
+389, "Dao of Pow",                         WEAPON_FLAIL,        1
+390, "Mythril Halberd",                    WEAPON_SPEAR,        1
+391, "Adamantite Bar",                     ORE,                99
+392, "Glass Wall",                         BUILDING,          250
+393, "Compass",                            ACCESSORY,           1
+394, "Diving Gear",                        ACCESSORY,           1
+395, "GPS",                                ACCESSORY,           1
+396, "Obsidian Horseshoe",                 ACCESSORY,           1
+397, "Obsidian Shield",                    ACCESSORY,           1
+398, "Tinkerer's Workshop",                FURNITURE,          99
+399, "Cloud in a Balloon",                 ACCESSORY,           1
+400, "Adamantite Headgear",                ARMOR_HEAD,          1
+401, "Adamantite Helmet",                  ARMOR_HEAD,          1
+402, "Adamantite Mask",                    ARMOR_HEAD,          1
+403, "Adamantite Breastplate",             ARMOR_BODY,          1
+404, "Adamantite Leggings",                ARMOR_LEGS,          1
+405, "Spectre Boots",                      ACCESSORY,           1
+406, "Adamantite Glaive",                  WEAPON_SPEAR,        1
+407, "Toolbelt",                           ACCESSORY,           1
+408, "Pearlsand Block",                    BUILDING,          250
+409, "Pearlstone Block",                   BUILDING,          250
+410, "Mining Shirt",                       ARMOR_BODY,          1
+411, "Mining Pants",                       ARMOR_LEGS,          1
+412, "Pearlstone Brick",                   BUILDING,          250
+413, "Iridescent Brick",                   BUILDING,          250
+414, "Mudstone Block",                     BUILDING,          250
+415, "Cobalt Brick",                       BUILDING,          250
+416, "Mythril Brick",                      BUILDING,          250
+417, "Pearlstone Brick Wall",              BUILDING,          250
+418, "Iridescent Brick Wall",              BUILDING,          250
+419, "Mudstone Brick Wall",                BUILDING,          250
+420, "Cobalt Brick Wall",                  BUILDING,          250
+421, "Mythril Brick Wall",                 BUILDING,          250
+422, "Holy Water",                         AMMUNITION,        250
+423, "Unholy Water",                       AMMUNITION,        250
+424, "Silt Block",                         BUILDING,          250
+425, "Fairy Bell",                         POTION,              1
+426, "Breaker Blade",                      WEAPON_MELEE,        1
+427, "Blue Torch",                         LIGHTING,           99
+428, "Red Torch",                          LIGHTING,           99
+429, "Green Torch",                        LIGHTING,           99
+430, "Purple Torch",                       LIGHTING,           99
+431, "White Torch",                        LIGHTING,           99
+432, "Yellow Torch",                       LIGHTING,           99
+433, "Demon Torch",                        LIGHTING,           99
+434, "Clockwork Assault Rifle",            WEAPON_GUN,          1
+435, "Cobalt Repeater",                    WEAPON_BOW,          1
+436, "Mythril Repeater",                   WEAPON_BOW,          1
+437, "Dual Hook",                          TOOL_OTHER,          1
+438, "Star Statue",                        STATUE,             99
+439, "Sword Statue",                       STATUE,             99
+440, "Slime Statue",                       STATUE,             99
+441, "Goblin Statue",                      STATUE,             99
+442, "Shield Statue",                      STATUE,             99
+443, "Bat Statue",                         STATUE,             99
+444, "Fish Statue",                        STATUE,             99
+445, "Bunny Statue",                       STATUE,             99
+446, "Skeleton Statue",                    STATUE,             99
+447, "Reaper Statue",                      STATUE,             99
+448, "Woman Statue",                       STATUE,             99
+449, "Imp Statue",                         STATUE,             99
+450, "Gargoyle Statue",                    STATUE,             99
+451, "Gloom Statue",                       STATUE,             99
+452, "Hornet Statue",                      STATUE,             99
+453, "Bomb Statue",                        STATUE,             99
+454, "Crab Statue",                        STATUE,             99
+455, "Hammer Statue",                      STATUE,             99
+456, "Potion Statue",                      STATUE,             99
+457, "Spear Statue",                       STATUE,             99
+458, "Cross Statue",                       STATUE,             99
+459, "Jellyfish Statue",                   STATUE,             99
+460, "Bow Statue",                         STATUE,             99
+461, "Boomerang Statue",                   STATUE,             99
+462, "Boot Statue",                        STATUE,             99
+463, "Chest Statue",                       STATUE,             99
+464, "Bird Statue",                        STATUE,             99
+465, "Axe Statue",                         STATUE,             99
+466, "Corrupt Statue",                     STATUE,             99
+467, "Tree Statue",                        STATUE,             99
+468, "Anvil Statue",                       STATUE,             99
+469, "Pickaxe Statue",                     STATUE,             99
+470, "Mushroom Statue",                    STATUE,             99
+471, "Eyeball Statue",                     STATUE,             99
+472, "Pillar Statue",                      STATUE,             99
+473, "Heart Statue",                       STATUE,             99
+474, "Pot Statue",                         STATUE,             99
+475, "Sunflower Statue",                   STATUE,             99
+476, "King Statue",                        STATUE,             99
+477, "Queen Statue",                       STATUE,             99
+478, "Piranha Statue",                     STATUE,             99
+479, "Planked Wall",                       BUILDING,          250
+480, "Wooden Beam",                        BUILDING,          250
+481, "Adamantite Repeater",                WEAPON_BOW,          1
+482, "Adamantite Sword",                   WEAPON_MELEE,        1
+483, "Cobalt Sword",                       WEAPON_MELEE,        1
+484, "Mythril Sword",                      WEAPON_MELEE,        1
+485, "Moon Charm",                         ACCESSORY,           1
+486, "Ruler",                              ACCESSORY,           1
+487, "Crystal Ball",                       FURNITURE,         250
+488, "Disco Ball",                         LIGHTING,          250
+489, "Sorcerer Emblem",                    ACCESSORY,           1
+490, "Warrior Emblem",                     ACCESSORY,           1
+491, "Ranger Emblem",                      ACCESSORY,           1
+492, "Demon Wings",                        ACCESSORY,           1
+493, "Angel Wings",                        ACCESSORY,           1
+494, "Magical Harp",                       WEAPON_MAGICAL,      1
+495, "Rainbow Rod",                        WEAPON_MAGICAL,      1
+496, "Ice Rod",                            WEAPON_MAGICAL,      1
+497, "Neptune's Shell",                    ACCESSORY,           1
+498, "Mannequin",                          FURNITURE,         250
+499, "Greater Healing Potion",             POTION,             30
+500, "Greater Mana Potion",                POTION,             30
+501, "Pixie Dust",                         CONSUMABLE,         99
+502, "Crystal Shard",                      CONSUMABLE,        250
+503, "Clown Hat",                          ARMOR_HEAD,          1
+504, "Clown Shirt",                        ARMOR_BODY,          1
+505, "Clown Pants",                        ARMOR_LEGS,          1
+506, "Flamethrower",                       WEAPON_GUN,          1
+507, "Bell",                               CONSUMABLE,          1
+508, "Harp",                               CONSUMABLE,          1
+509, "Wrench",                             TOOL_OTHER,          1
+510, "Wire Cutter",                        TOOL_OTHER,          1
+511, "Active Stone Block",                 BUILDING,          250
+512, "Inactive Stone Block",               BUILDING,          250
+513, "Lever",                              BUILDING,          250
+514, "Laser Rifle",                        WEAPON_GUN,          1
+515, "Crystal Bullet",                     AMMUNITION,        250
+516, "Holy Arrow",                         AMMUNITION,        250
+517, "Magic Dagger",                       WEAPON_MAGICAL,      1
+518, "Crystal Storm",                      WEAPON_MAGICAL,      1
+519, "Cursed Flames",                      WEAPON_MAGICAL,      1
+520, "Soul of Light",                      CONSUMABLE,        250
+521, "Soul of Night",                      CONSUMABLE,        250
+522, "Cursed Flame",                       CONSUMABLE,         99
+523, "Cursed Torch",                       LIGHTING,           99
+524, "Adamantite Forge",                   FURNITURE,          99
+525, "Mythril Anvil",                      FURNITURE,          99
+526, "Unicorn Horn",                       CONSUMABLE,         99
+527, "Dark Shard",                         CONSUMABLE,         99
+528, "Light Shard",                        CONSUMABLE,         99
+529, "Red Pressure Plate",                 BUILDING,          250
+530, "Wire",                               CONSUMABLE,        250
+531, "Spell Tome",                         CONSUMABLE,         99
+532, "Star Cloak",                         ACCESSORY,           1
+533, "Megashark",                          WEAPON_GUN,          1
+534, "Shotgun",                            WEAPON_GUN,          1
+535, "Philosopher's Stone",                ACCESSORY,           1
+536, "Titan Glove",                        ACCESSORY,           1
+537, "Cobalt Naginata",                    WEAPON_SPEAR,        1
+538, "Switch",                             BUILDING,          250
+539, "Dart Trap",                          BUILDING,          250
+540, "Boulder",                            BUILDING,          250
+541, "Green Pressure Plate",               BUILDING,          250
+542, "Gray Pressure Plate",                BUILDING,          250
+543, "Brown Pressure Plate",               BUILDING,          250
+544, "Mechanical Eye",                     CONSUMABLE,         20
+545, "Cursed Arrow",                       AMMUNITION,        250
+546, "Cursed Bullet",                      AMMUNITION,        250
+547, "Soul of Fright",                     CONSUMABLE,        250
+548, "Soul of Might",                      CONSUMABLE,        250
+549, "Soul of Sight",                      CONSUMABLE,        250
+550, "Gungnir",                            WEAPON_SPEAR,        1
+551, "Hallowed Plate Mail",                ARMOR_BODY,          1
+552, "Hallowed Greaves",                   ARMOR_LEGS,          1
+553, "Hallowed Helmet",                    ARMOR_HEAD,          1
+554, "Cross Necklace",                     ACCESSORY,           1
+555, "Mana Flower",                        ACCESSORY,           1
+556, "Mechanical Worm",                    CONSUMABLE,         20
+557, "Mechanical Skull",                   CONSUMABLE,         20
+558, "Hallowed Headgear",                  ARMOR_HEAD,          1
+559, "Hallowed Mask",                      ARMOR_HEAD,          1
+560, "Slime Crown",                        CONSUMABLE,         20
+561, "Light Disc",                         WEAPON_BOOMERANG,    5
+562, "Music Box (Overworld Day)",          ACCESSORY,           1
+563, "Music Box (Eerie)",                  ACCESSORY,           1
+564, "Music Box (Night)",                  ACCESSORY,           1
+565, "Music Box (Title)",                  ACCESSORY,           1
+566, "Music Box (Underground)",            ACCESSORY,           1
+567, "Music Box (Boss 1)",                 ACCESSORY,           1
+568, "Music Box (Jungle)",                 ACCESSORY,           1
+569, "Music Box (Corruption)",             ACCESSORY,           1
+570, "Music Box (Underground Corruption)", ACCESSORY,           1
+571, "Music Box (The Hallow)",             ACCESSORY,           1
+572, "Music Box (Boss 2)",                 ACCESSORY,           1
+573, "Music Box (Underground Hallow)",     ACCESSORY,           1
+574, "Music Box (Boss 3)",                 ACCESSORY,           1
+575, "Soul of Flight",                     CONSUMABLE,        250
+576, "Music Box",                          ACCESSORY,           1
+577, "Demonite Brick",                     BUILDING,          250
+578, "Hallowed Repeater",                  WEAPON_BOW,          1
+579, "Hamdrax",                            TOOL_HAMAXE,         1
+580, "Explosives",                         WEAPON_EXPLOSIVE,  250
+581, "Inlet Pump",                         FURNITURE,         250
+582, "Outlet Pump",                        FURNITURE,         250
+583, "1 Second Timer",                     FURNITURE,          99
+584, "3 Second Timer",                     FURNITURE,          99
+585, "5 Second Timer",                     FURNITURE,          99
+586, "Candy Cane Block",                   BUILDING,          250
+587, "Candy Cane Wall",                    BUILDING,          250
+588, "Santa Hat",                          ARMOR_HEAD,          1
+589, "Santa Shirt",                        ARMOR_BODY,          1
+590, "Santa Pants",                        ARMOR_LEGS,          1
+591, "Green Candy Cane Block",             BUILDING,          250
+592, "Green Candy Cane Wall",              BUILDING,          250
+593, "Snow Block",                         BUILDING,          250
+594, "Snow Brick",                         BUILDING,          250
+595, "Snow Brick Wall",                    BUILDING,          250
+596, "Blue Light",                         LIGHTING,          250
+597, "Red Light",                          LIGHTING,          250
+598, "Green Light",                        LIGHTING,          250
+599, "Blue Present",                       MISCELLANEOUS,       1
+600, "Green Present",                      MISCELLANEOUS,       1
+601, "Yellow Present",                     MISCELLANEOUS,       1
+602, "Snow Globe",                         CONSUMABLE,          1
+603, "Carrot",                             CONSUMABLE,          1
